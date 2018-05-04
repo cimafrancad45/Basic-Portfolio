@@ -15,7 +15,7 @@ body {
     margin: 0px
 }
 
-.name {
+.pageLabel {
     position: static;
     float: left;
     margin: 0 0 0 150px;
@@ -33,7 +33,7 @@ body {
     padding: 24px;
 }
 
-.Mainbody {
+.mainbody {
     margin: 50px auto;
     width: 960px;
     border-style: solid;

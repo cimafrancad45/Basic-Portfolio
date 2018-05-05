@@ -6,7 +6,7 @@ body {
    height: 100%;
 }
 
-.pageTop {
+.navbar {
     position: fixed;
     margin: 0;
     top: 0;
@@ -17,7 +17,7 @@ body {
     z-index: 1;
 }
 
-.pageLabel {
+.name {
     position: fixed;
     float: left;
     margin: 0 0 0 150px;
@@ -54,18 +54,20 @@ body {
 }
 
 .portfoliolist {
-    position: relative;
+    position: absolute;
     font-family: 'Georgia', Times, Times New Roman, serif;
     width: 250px;
-    margin: 0;
+    margin: -75px 0 0 0;
     padding: 15px 0 15px 0;
     text-align: center;
     background: #4aaaa5;
     color: white;
+    z-index: 1;
 }
 
 .portfoliopic {
     margin: 0;
+    z-index: 0;
 }
 
 .form {

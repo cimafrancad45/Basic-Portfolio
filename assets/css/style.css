@@ -54,7 +54,7 @@ body {
 .profile {
     float: left;
     position: relative;
-    margin: 0 20px 20px 20px;
+    margin: 0 15px 15px 15px;
 }
 
 .portfolioList {
@@ -89,6 +89,7 @@ p {
     margin: 10px;
     text-align: left;
     font-size: 18px;
+    line-height: 115%;
 }
 
 .footer {

@@ -1,2 +1,2 @@
 # Basic-Portfolio
-Homework Assignment
+My basic portfolio made with HTML and CSS
